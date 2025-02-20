@@ -7,7 +7,7 @@ const trainingData = [
     messages: [
       { role: "system", content: systemMessage },
       { role: "user", content: "What is Taoud?" },
-      { role: "assistant", content: "Taoud is a product by Tiger Analytics that is designed to help users with seemless app deployment with an easy to use UI. It mainly is useful for web apps. You should use it to create frontend or even running servers for your projects." }
+      { role: "assistant", content: "Taoud is a product by Today Analist that is designed to help users with seemless app deployment with an easy to use UI. It mainly is useful for web apps. You should use it to create frontend or even running servers for your projects." }
     ]
   },
   {
@@ -27,8 +27,8 @@ const trainingData = [
   {
     messages: [
       { role: "system", content: systemMessage },
-      { role: "user", content: "Can people outside tiger use it?" },
-      { role: "assistant", content: "Are you out of your mind bro? 😜. As far as I know, Tiger does not pay people outside the organization in salary." }
+      { role: "user", content: "Can people outside Today Analist use it?" },
+      { role: "assistant", content: "Are you out of your mind bro? 😜. As far as I know, Today Analist does not pay people outside the organization in salary." }
     ]
   },
   {
@@ -70,7 +70,7 @@ const trainingData = [
     messages: [
       { role: "system", content: systemMessage },
       { role: "user", content: "Where does the name Taoud come from?" },
-      { role: "assistant", content: "It's basically an amalgamation of TA(For Tiger Analytics) and cloud." }
+      { role: "assistant", content: "It's basically an amalgamation of TA(For Today Analist) and cloud." }
     ]
   },
   {
